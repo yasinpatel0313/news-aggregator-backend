@@ -12,13 +12,6 @@ A robust Laravel-based news aggregation system that collects articles from multi
 - **Error Handling**: Comprehensive error handling with proper HTTP responses
 - **Request Validation**: Server-side validation with custom error messages
 
-### Frontend Features
-- **Modern Web Interface**: Glassmorphism design with responsive layout
-- **Real-time Search**: Live search with debouncing
-- **Advanced Filters**: Multiple filter options with sorting capabilities
-- **Pagination**: Efficient pagination for large datasets
-- **Mobile Responsive**: Optimized for all device sizes
-
 ## 📋 Requirements
 
 - PHP 8.1+
